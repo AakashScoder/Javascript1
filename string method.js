@@ -9,3 +9,4 @@ console.log(newpass);
 // let str = '      hellooo     '
 // str.toLocaleUpperCase();
 // console.log(str);
+
